@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable/icon_govaffairs.xml",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable/icon_govaffairs.xml"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable/icon_smartservice.xml",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable/icon_smartservice.xml"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable/icon_function.xml",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable/icon_function.xml"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable/icon_setting.xml",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable/icon_setting.xml"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable/icon_newscenter.xml",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable/icon_newscenter.xml"
+    }
+]

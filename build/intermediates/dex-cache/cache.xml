@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wzq/software/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/wzq/android_projects/Guide/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_42dd5208e9dae6e7308d241315dd40e31dfb8d7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wzq/android_projects/Guide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="366b18e246822cfc4d3e244063d08ef2b15b3a75">
+        <dex dex="/home/wzq/android_projects/Guide/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c657c79be52a053cea531560025ffc5255ccaa1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wzq/android_projects/Guide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="446cd4ad93c6ec0d8e6d2e047e71b05511636466">
+        <dex dex="/home/wzq/android_projects/Guide/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ab1265a8aae8c1d8e31531b20aa3423f2b8eb317/classes.dex" />
+    </item>
+
+</items>

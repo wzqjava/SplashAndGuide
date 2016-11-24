@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/newscenter_press2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/newscenter_press2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/setting_press2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/setting_press2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/guide_3.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/guide_3.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/govaffairs_press2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/govaffairs_press2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/smartservice_press2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/smartservice_press2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/home2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/home2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/guide_1.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/guide_1.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/home_press2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/home_press2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/setting2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/setting2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/govaffairs2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/govaffairs2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/newscenter2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/newscenter2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/splash_horse_newyear.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/splash_horse_newyear.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/guide_2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/guide_2.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/bottom_tab_bg.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/bottom_tab_bg.png"
+    },
+    {
+        "merged": "/home/wzq/android_projects/Guide/app/build/intermediates/res/merged/debug/drawable-hdpi/smartservice2.png",
+        "source": "/home/wzq/android_projects/Guide/app/src/main/res/drawable-hdpi/smartservice2.png"
+    }
+]

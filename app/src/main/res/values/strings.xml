@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">引导界面</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tab_function">首页</string>
+    <string name="tab_news_center">新闻中心</string>
+    <string name="tab_smart_service">智慧服务</string>
+    <string name="tab_gov_affairs">政务指南</string>
+    <string name="tab_setting">设置</string>
+
+</resources>
