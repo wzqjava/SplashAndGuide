@@ -1,8 +1,5 @@
 package com.example.guide;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,6 +12,9 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class GuideActivity extends Activity {
 	public static final String tag = "GuideActivity";
